@@ -14,7 +14,7 @@
 
 <br />
 
-*Hi, I'm Mann, a Deep Learning Enthusiast🚀 & passionate competitive programmer from India. I develop stuff ranging from state-of-the-art to just-for-fun and everything in between! Ask me to code anything, and I will!*
+*Hi, I'm Mann! A deep learning enthusiast🚀 & passionate competitive programmer:zombie: from India. I develop stuff ranging from state-of-the-art to just-for-fun and everything in between! Ask me to code anything, and I will!*
 
 - 🔭 Currently working on projects related to Deep Learning and Computer Vision.
 - 🌱 Currently learning [RL](https://www.coursera.org/specializations/reinforcement-learning), [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing) and [SOTA approches](https://paperswithcode.com/sota) of Deep Learning.
