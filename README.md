@@ -14,7 +14,7 @@
 
 *Hi, I'm **Mann**! A deep learning enthusiast🚀 & passionate competitive programmer:zombie: from India. I develop stuff ranging from state-of-the-art to just-for-fun and everything in between!*
 
-- 📝 Here's my [Resume]!(https://drive.google.com/file/d/1yUiJBVEXieC7vlCGZNr11Mt3UVaEBfyv/view?usp=sharing)
+- 📝 Here's my [Resume](https://drive.google.com/file/d/1yUiJBVEXieC7vlCGZNr11Mt3UVaEBfyv/view?usp=sharing)!
 - 🔭 Currently working on projects related to Deep Learning and Computer Vision.
 - 🌱 Currently learning [RL](https://www.coursera.org/specializations/reinforcement-learning), [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing) and [SOTA approches](https://paperswithcode.com/sota) of Deep Learning.
 - 💼 Wanna reach out? Drop a hello at my [email](mailto:manncodes@gmail.com) ^_^
