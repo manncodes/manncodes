@@ -5,7 +5,7 @@
   <img align="left" alt="Mann's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/djh04wljbi0d2jzr1de8hs5o8?si=MAEG3HjvTZmM1JL4Hjotww&utm_source=copy-link&dl_branch=1">
-  <img align="left" alt="Mann's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Mann's Spotify" width="22px" src="https://cdn.worldvectorlogo.com/logos/spotify-2.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=manncodes.manncodes)
