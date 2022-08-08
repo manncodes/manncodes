@@ -12,7 +12,7 @@
 
 <br />
 
-*Hi, I'm **Mann**! A deep learning Developer & Researcher🚀 & passionate competitive programmer:zombie: from India. I develop stuff ranging from state-of-the-art to just-for-fun and everything in between!*
+*Hi, I'm **Mann**! A deep learning Dev / Researcher from India. I develop stuff ranging from state-of-the-art to just-for-fun and everything in between!✨*
 
 - 🔭 Currently working on projects related to Deep Learning and Computer Vision.
 - 🌱 Currently exploring [Geometric Deep Learning](https://geometricdeeplearning.com/), and trying to master Computer Vision and [SOTA approches](https://paperswithcode.com/sota) of Deep Learning.
