@@ -18,12 +18,4 @@
 - 🌱 Currently exploring [Geometric Deep Learning](https://geometricdeeplearning.com/), and trying to master Computer Vision and [SOTA approches](https://paperswithcode.com/sota) of Deep Learning.
 - 💼 Wanna reach out? Drop a hello at my [email](mailto:manncodes@gmail.com) ^_^
 - 💬 Ask me about anything, I am happy to help!
-- 😬 I start to optimize my code, before I code.
-<!-- - 📝 Here's my [Resume](https://drive.google.com/file/d/1yUiJBVEXieC7vlCGZNr11Mt3UVaEBfyv/view?usp=sharing)! -->
-- 📝 Here's my [Resume](https://drive.google.com/file/d/1TokcG06rDPUNItJIMq5Vr0706xGzDhNJ/view?usp=sharing)! 
-
-
-
-
-
-
+- 😬 I start to optimize my code, before I code
