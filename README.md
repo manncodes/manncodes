@@ -8,7 +8,8 @@
   <img align="left" alt="Mann's Spotify" width="22px" src="https://cdn.worldvectorlogo.com/logos/spotify-2.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=manncodes.manncodes)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=manncodes.manncodes) -->
+<img src="https://komarev.com/ghpvc/?username=manncodes&label=Profile%20views&color=blueviolet&style=flat" alt="manncodes" />
 
 <br />
 
