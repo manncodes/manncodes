@@ -1,8 +1,8 @@
 <a href="https://twitter.com/punsbymann">
-  <img align="left" alt="Mann Patel's | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Mann Patel's | Twitter" width="25px" src="https://cdn.cdnlogo.com/logos/t/48/twitter.png"/>
 </a>
 <a href="https://www.linkedin.com/in/manncodes/">
-  <img align="left" alt="Mann's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Mann's LinkedIn" width="22px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />
 </a>
 <a href="https://open.spotify.com/user/djh04wljbi0d2jzr1de8hs5o8?si=MAEG3HjvTZmM1JL4Hjotww&utm_source=copy-link&dl_branch=1">
   <img align="left" alt="Mann's Spotify" width="22px" src="https://cdn.worldvectorlogo.com/logos/spotify-2.svg" />
