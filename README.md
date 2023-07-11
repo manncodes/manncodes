@@ -1,5 +1,5 @@
 <a href="https://twitter.com/punsbymann">
-  <img align="left" alt="Mann Patel's | Twitter" width="25px" src="https://cdn.cdnlogo.com/logos/t/48/twitter.png"/>
+  <img align="left" alt="Mann Patel's | Twitter" width="26px" src="https://cdn.cdnlogo.com/logos/t/48/twitter.png"/>
 </a>
 <a href="https://www.linkedin.com/in/manncodes/">
   <img align="left" alt="Mann's LinkedIn" width="22px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />
