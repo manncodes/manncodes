@@ -1,6 +1,9 @@
 <a href="https://twitter.com/punsbymann">
   <img align="left" alt="Mann Patel's | Twitter" width="26px" src="https://cdn.cdnlogo.com/logos/t/48/twitter.png"/>
 </a>
+<a href="https://www.threads.net/@mann21_">
+  <img align="left" alt="Mann's Threads" width="22px" src="https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png" />
+</a>
 <a href="https://www.linkedin.com/in/manncodes/">
   <img align="left" alt="Mann's LinkedIn" width="22px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />
 </a>
