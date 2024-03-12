@@ -19,7 +19,7 @@
 *Hi, I'm **Mann**! A deep learning Dev / Researcher from India. I develop stuff ranging from state-of-the-art to just-for-fun and everything in between!✨*
 
 - 🔭 Currently working on projects related to Deep Learning and Computer Vision.
-- 🌱 Currently exploring [Geometric Deep Learning](https://geometricdeeplearning.com/), and trying to master Computer Vision and [SOTA approches](https://paperswithcode.com/sota) of Deep Learning.
+- 🌱 Currently exploring [Geometric Deep Learning](https://geometricdeeplearning.com/), Multimodal LLMs, MLSys, and Interpretability. 
 - 💼 Wanna reach out? Drop a hello at my [email](mailto:manncodes@gmail.com) ^_^
 - 💬 Ask me about anything, I am happy to help!
 - 😬 I start to optimize my code, before I code
