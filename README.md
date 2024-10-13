@@ -18,8 +18,9 @@
 
 *Hi, I'm **Mann**! A deep learning Dev / Researcher from India. I develop stuff ranging from state-of-the-art to just-for-fun and everything in between!✨*
 
-- 🔭 Currently working on projects related to Deep Learning and Computer Vision.
-- 🌱 Currently exploring [Geometric Deep Learning](https://geometricdeeplearning.com/), Multimodal LLMs, MLSys, and Interpretability. 
+- 🔍 I do investigations in internal workings of Language Models @ [✨GLAMOR LAB](https://glamor-usc.github.io/).
+- [G] At Google, I worked on Meta Agent creation for Domain specific Web Agents for knowledge extraction and validation.  
+- 🔭 Currently working { "How is Knowledge stored in LLMs?", "Where does Uncertainity in LLMs arises?", "Entropy based decoding optimizations for improving Reasoning" }
+- 🌱 Currently exploring Multimodal LLMs, ML Systems, and **Interpretability**. 
 - 💼 Wanna reach out? Drop a hello at my [email](mailto:manncodes@gmail.com) ^_^
 - 💬 Ask me about anything, I am happy to help!
-- 😬 I start to optimize my code, before I code
