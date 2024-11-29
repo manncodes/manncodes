@@ -22,5 +22,4 @@
 - [G] At Google, I worked on Meta Agent creation for Domain specific Web Agents for knowledge extraction and validation.  
 - 🔭 Currently working { "How is Knowledge stored in LLMs?", "Where does Uncertainity in LLMs arises?", "Entropy based decoding optimizations for improving Reasoning" }
 - 🌱 Currently exploring Multimodal LLMs, ML Systems, and **Interpretability**. 
-- 💼 Wanna reach out? Drop a hello at my [email](mailto:manncodes@gmail.com) ^_^
-- 💬 Ask me about anything, I am happy to help!
+- 💼 Reach me at my [email](mailto:manncodes@gmail.com) ^_^
