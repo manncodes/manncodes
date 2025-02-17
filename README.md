@@ -20,6 +20,6 @@
 
 - 🔍 I do investigations in internal workings of Language Models @ [✨GLAMOR LAB](https://glamor-usc.github.io/).
 - [G] At Google, I worked on Meta Agent creation for Domain specific Web Agents for knowledge extraction and validation.  
-- 🔭 Currently working { "How is Knowledge stored in LLMs?", "Where does Uncertainity in LLMs arises?", "Entropy based decoding optimizations for improving Reasoning" }
+- 🔭 Currently working { "How is Knowledge stored in LLMs?", "Where does Uncertainity in LLMs arises?", "Architecture tweaks to improve reasoning" }
 - 🌱 Currently exploring Multimodal LLMs, ML Systems, and **Interpretability**. 
 - 💼 Reach me at my [email](mailto:manncodes@gmail.com) ^_^
