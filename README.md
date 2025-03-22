@@ -18,7 +18,7 @@
 
 *Hi, I'm **Mann**! A deep learning Dev / Researcher from India. I develop stuff ranging from state-of-the-art to just-for-fun and everything in between!✨*
 
-- 🔍 I do investigations in internal workings of Language Models @ [✨GLAMOR LAB](https://glamor-usc.github.io/).
+- 🔍 I do investigations in internal workings of Language Models @ [GLAMOR LAB✨](https://glamor-usc.github.io/).
 - [G] At Google, I worked on Meta Agent creation for Domain specific Web Agents for knowledge extraction and validation.  
 - 🔭 Currently working { "How is Knowledge stored in LLMs?", "Where does Uncertainity in LLMs arises?", "Architecture tweaks to improve reasoning" }
 - 🌱 Currently exploring Multimodal LLMs, ML Systems, and **Interpretability**. 
